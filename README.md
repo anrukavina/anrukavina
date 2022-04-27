@@ -2,10 +2,7 @@
 
   - 📖 I’m currently learning PHP and databases.
 
-
-[![website](./img/linkedin-light.svg)](https://hr.linkedin.com/in/antun-rukavina-430b85188)
-[![website](./img/linkedin-dark.svg)](https://hr.linkedin.com/in/antun-rukavina-430b85188)
-&nbsp;&nbsp;
+[<img alt="anrukavina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--
 **anrukavina/anrukavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -20,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[linkedin]: https://hr.linkedin.com/in/antun-rukavina-430b85188
