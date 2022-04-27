@@ -1,8 +1,10 @@
 ### Hi there, I'm Antun 👋
 
   - 📖 I’m currently learning PHP and databases.
+  - 💻 I'm looking forward to becoming a web developer.
 
-[<img alt="anrukavina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### You can find me on Linkedin: [<img alt="anrukavina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 <!--
 **anrukavina/anrukavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
