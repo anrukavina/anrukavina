@@ -1,6 +1,11 @@
 ### Hi there, I'm Antun 👋
 
-  - 🌱 I’m currently learning PHP and MySQL.
+  - 📖 I’m currently learning PHP and databases.
+
+
+[![website](./img/linkedin-light.svg)](https://hr.linkedin.com/in/antun-rukavina-430b85188)
+[![website](./img/linkedin-dark.svg)](https://hr.linkedin.com/in/antun-rukavina-430b85188)
+&nbsp;&nbsp;
 <!--
 **anrukavina/anrukavina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
