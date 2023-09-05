@@ -1,7 +1,6 @@
 ### Hi there, I'm Antun 👋
 
   - 📖 I strive to learn new, and improve existing skills in the field of web development.
-  - 💻 I'm looking forward for opportunity for my first job as a backend developer.
 
 ### You can find me on Linkedin: [<img alt="anrukavina | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
